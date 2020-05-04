@@ -7,3 +7,5 @@ Each week will be recorded separately and will be either in the form of a single
 Here are my learning goals for [week 1](https://docs.google.com/document/d/1LhfciaQ-DIQHX7Km4My68Ck0BCsDCRQBLIeK9G80abY/edit?usp=sharing)
 
 Here are my learning goals for [week 2](https://docs.google.com/document/d/1nNnEva_mhaQajLQ_4HBB8qitEISa4YGYwGdSEayw8q4/edit?usp=sharing)
+
+Here are my learning goals for [week 3](https://docs.google.com/document/d/1adu4qWGW_PCS9UXDZyJx5kOBZJBj7BKSTCCNF0bU-xM/edit?usp=sharing)
