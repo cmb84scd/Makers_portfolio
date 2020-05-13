@@ -1,6 +1,8 @@
 #### The basics of how the web works!
 
-The web is a system for publishing pages of information on the internet. All the pages are stored on servers and can be accessed by a user anywhere in the world. To access the information, the user types the address of the page into a browser (Google for example), the browser then goes to the server to get the page information, the server returns the information to the browser and finally the browser displays the information (page) to the user. This is the request/response cycle.
+The web is a system for publishing pages of information on the internet. All the pages are stored on servers and can be accessed by a user anywhere in the world. To access the information, the user types the address of the page into a browser (Google for example), the browser then goes to the server to get the page information, the server returns the information to the browser and finally the browser displays the information (page) to the user. This is the request/response cycle. Here are a couple of sequence diagrams describing this that we did in groups in the domain modelling workshop:
+![Diagram1](list_sequence.png)
+![Diagram2](catpic_sequence.png)
 
 Here are some other useful bits, which I knew about and use, but didn't really know what they meant!
 

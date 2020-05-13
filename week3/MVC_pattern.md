@@ -10,5 +10,5 @@ Controller - accepts input and turns it into commands for model or view.
 
 In essence the controller accepts input, manipulating it as necessary before passing it onto the model for the raw data. It then goes back to the controller who passes it to view for the layout etc before coming back to the controller as a viewable page.
 
-User asks for a page and the following happens to return a viewable page:
-Controller->Model->Controller->View->Controller
+Here is a sequence diagram to explain this:
+![MVC_Diagram](MVCdiagram.png)
