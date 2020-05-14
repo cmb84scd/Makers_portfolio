@@ -9,3 +9,5 @@ Here are my learning goals for [week 1](https://docs.google.com/document/d/1Lhfc
 Here are my learning goals for [week 2](https://docs.google.com/document/d/1nNnEva_mhaQajLQ_4HBB8qitEISa4YGYwGdSEayw8q4/edit?usp=sharing)
 
 Here are my learning goals for [week 3](https://docs.google.com/document/d/1adu4qWGW_PCS9UXDZyJx5kOBZJBj7BKSTCCNF0bU-xM/edit?usp=sharing)
+
+Here are my learning goals for [week 4](https://docs.google.com/document/d/1YhdtFqCMda9f-TUzQLRMdbA60mNgmDiIUZo1u4NRulQ/edit?usp=sharing)
