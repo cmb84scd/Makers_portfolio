@@ -11,3 +11,5 @@ Here are my learning goals for [week 2](https://docs.google.com/document/d/1nNnE
 Here are my learning goals for [week 3](https://docs.google.com/document/d/1adu4qWGW_PCS9UXDZyJx5kOBZJBj7BKSTCCNF0bU-xM/edit?usp=sharing)
 
 Here are my learning goals for [week 4](https://docs.google.com/document/d/1YhdtFqCMda9f-TUzQLRMdbA60mNgmDiIUZo1u4NRulQ/edit?usp=sharing)
+
+Here are my learning goals for [week 5](https://docs.google.com/document/d/1ns0Ek5JQspEDP7IYQrG4NQvHY5sc6TwZRnI9eQlQBaY/edit?usp=sharing)
