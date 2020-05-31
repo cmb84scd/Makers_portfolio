@@ -1,0 +1,5 @@
+## Asynchronous javascript
+
+In simple terms, javascript is a single threaded language which means only one statement can be processed at a time. This is because it has just the one (main) thread in which to process the statements. This is fine if the requests are simple such as printing info to the console but not if you are wanting to access a network for example. The problem here is, while you are waiting for the network access request to complete nothing else can be done. This is where asynchronous javascript comes in.
+
+Asynchronous javascript is where you use things like callbacks to perform network requests without blocking the main thread. This means other stuff can still be processed while waiting for the network request to be processed. By doing this the network request is pushed into the event loop to be processed and once it's processed it goes into the message queue. When the event loop sees the main stack is empty, it'll check the message queue and anything there will get pushed into the main stack one by one.
