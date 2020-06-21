@@ -19,3 +19,5 @@ Here are my learning goals for [week 6](https://docs.google.com/document/d/1iJZo
 Here are my learning goals for [week 7](https://docs.google.com/document/d/1joaiaqR0nLMnfZ6p0jm7kpORw1jO1b1cAY21HKaZ9Go/edit?usp=sharing)
 
 Here are my learning goals for [week 8-9](https://docs.google.com/document/d/1fVN_91r2UMHUzUiZXVq41THzpBjugiXP8On_SeW81Fw/edit?usp=sharing)
+
+Here are my learning goals for [week 10](https://docs.google.com/document/d/1epSizlc7Y0d2DvngMVfXu3ntFtM2xuBL-9sZGLphrK4/edit?usp=sharing)

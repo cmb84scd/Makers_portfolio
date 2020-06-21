@@ -6,6 +6,7 @@
   - How the input will be provided, ie an argument
   - What the expected output will be
 - [ ] Do diagrams/tables such as
+  - Domain Model diagram/table
   - Input/Output table
 - [ ] Set up project
   - Create folder and do git init
