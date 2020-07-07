@@ -21,3 +21,5 @@ Here are my learning goals for [week 7](https://docs.google.com/document/d/1joai
 Here are my learning goals for [week 8-9](https://docs.google.com/document/d/1fVN_91r2UMHUzUiZXVq41THzpBjugiXP8On_SeW81Fw/edit?usp=sharing)
 
 Here are my learning goals for [week 10](https://docs.google.com/document/d/1epSizlc7Y0d2DvngMVfXu3ntFtM2xuBL-9sZGLphrK4/edit?usp=sharing)
+
+Here are my learning goals for [week 11-12](https://docs.google.com/document/d/1EJE7WklNDH_i9lxSQ1d_05VfWTqr805by9XCF1gU254/edit?usp=sharing)
